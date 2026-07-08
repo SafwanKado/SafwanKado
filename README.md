@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SafwanKado
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web programming concepts 
+- 🌱 I’m currently Working on web and mobile app projects
 - 💞️ I’m looking to collaborate on development projects
 - 📫 Can reach me on github
 
